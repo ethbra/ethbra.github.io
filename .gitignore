@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 
 # Gemfile
 Gemfile.lock
+
+# AI config
+.claude
